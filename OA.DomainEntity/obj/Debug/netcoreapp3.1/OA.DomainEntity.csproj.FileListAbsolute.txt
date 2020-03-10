@@ -1,0 +1,10 @@
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\bin\Debug\netcoreapp3.1\OA.DomainEntity.deps.json
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\bin\Debug\netcoreapp3.1\OA.DomainEntity.runtimeconfig.json
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\bin\Debug\netcoreapp3.1\OA.DomainEntity.runtimeconfig.dev.json
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\bin\Debug\netcoreapp3.1\OA.DomainEntity.dll
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\bin\Debug\netcoreapp3.1\OA.DomainEntity.pdb
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\obj\Debug\netcoreapp3.1\OA.DomainEntity.AssemblyInfoInputs.cache
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\obj\Debug\netcoreapp3.1\OA.DomainEntity.AssemblyInfo.cs
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\obj\Debug\netcoreapp3.1\OA.DomainEntity.dll
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\obj\Debug\netcoreapp3.1\OA.DomainEntity.pdb
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.DomainEntity\obj\Debug\netcoreapp3.1\OA.DomainEntity.csprojAssemblyReference.cache

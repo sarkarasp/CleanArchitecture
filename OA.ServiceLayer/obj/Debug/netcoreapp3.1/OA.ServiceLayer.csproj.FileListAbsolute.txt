@@ -1,0 +1,15 @@
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.ServiceLayer.deps.json
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.ServiceLayer.dll
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.ServiceLayer.pdb
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.DomainEntity.dll
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.Repository.Layer.dll
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.DomainEntity.pdb
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.Repository.Layer.pdb
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\obj\Debug\netcoreapp3.1\OA.ServiceLayer.csprojAssemblyReference.cache
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\obj\Debug\netcoreapp3.1\OA.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\obj\Debug\netcoreapp3.1\OA.ServiceLayer.AssemblyInfo.cs
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\obj\Debug\netcoreapp3.1\OA.ServiceLayer.csproj.CopyComplete
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\obj\Debug\netcoreapp3.1\OA.ServiceLayer.dll
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\obj\Debug\netcoreapp3.1\OA.ServiceLayer.pdb
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.ServiceLayer.runtimeconfig.json
+C:\Users\sudipto.sarkar\source\repos\OnionArchitecture\OA.ServiceLayer\bin\Debug\netcoreapp3.1\OA.ServiceLayer.runtimeconfig.dev.json
